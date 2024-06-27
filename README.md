@@ -1,1 +1,1 @@
-# LILYGO-SLS_board_packages
+# SquareLine Studio Board Packages
