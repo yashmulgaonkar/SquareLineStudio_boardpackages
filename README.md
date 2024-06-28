@@ -11,6 +11,7 @@ Welcome to the **SquareLine Studio Board Packages** repository! This guide will 
 - [Usage](#usage)
   - [Setting Up Your Project](#setting-up-your-project)
   - [Flashing](#flashing)
+- [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
 ## Introduction
