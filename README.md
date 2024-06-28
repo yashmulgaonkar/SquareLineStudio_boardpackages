@@ -70,6 +70,18 @@ Follow these steps to install the SquareLine Studio board packages:
    - Open the `ui.ino` file located in `[PROJECTNAME]\ui\` in the IDE.
    - Click the `Upload` button or use the shortcut `Ctrl+U` to upload your code to the board.
 
+## Contribution Guidelines
+
+To report errors, seek help, or suggest new ideas, the best approach is to [create a new issue](https://github.com/yashmulgaonkar/SquareLineStudio_boardpackages/issues). Alternatively, you can share your code changes and innovations by submitting a Pull Request (PR).
+
+When creating issues or PRs, please keep the following guidelines in mind:
+
+- Reasonable Titles: Keep your titles clear and concise.
+
+- Be Detailed: Provide detailed information, including your board type and library version. Always include your source code when discussing problems.
+
+- Use code blocks: This makes your code easier to read.
+
 ## License
 
 This repository is licensed under the MIT License. See the `LICENSE` file for more details.
