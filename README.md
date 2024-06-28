@@ -46,16 +46,19 @@ Follow these steps to install the SquareLine Studio board packages:
 
 4. **Navigate to the "Create" menu in SquareLine Studio:**
    You should now see the new manufacturer tabs from this repo show up:
+   ![](images/SLS_Create.jpg)
 
 ## Usage
 
 ### Setting Up Your Project
 
 1. **Select the desired board and project settings:**
+  ![](images/SLS_Lilygo.jpg)
 
 2. **Create a New Project:**
    - Create a new project
    - Develop your shiny new GUI
+  ![](images/SLS_gui_dev.jpg)
 
 3. **Publish your Project:**
    - Go to `Export > Create Template Project`.
