@@ -76,6 +76,20 @@ Follow these steps to install the SquareLine Studio board packages:
 
 ## Contribution Guidelines
 
+### Hardware
+If you wish to contribute hardware development boards for expanding this project, please contact me. Here are the guidelines to follow for your contribution:
+1. Board Information
+   - Board Name: The name of your development board.
+   - Manufacturer: The name of the company or individual who manufactured the board.
+   - Specifications: Detailed specifications including CPU, memory, input/output ports, and any other relevant details.
+   - Documentation: Links to datasheets, user manuals, and any other relevant documentation.
+   
+2. Pinout Diagram
+   - Provide a clear and detailed pinout diagram of your board in a commonly used format (e.g., PNG, SVG, PDF).
+3. Libraries and Drivers
+   - Include links to any necessary libraries and drivers required for the board to function properly.
+
+### Software
 To report errors, seek help, or suggest new ideas, the best approach is to [create a new issue](https://github.com/yashmulgaonkar/SquareLineStudio_boardpackages/issues). Alternatively, you can share your code changes and innovations by submitting a Pull Request (PR).
 
 When creating issues or PRs, please keep the following guidelines in mind:
