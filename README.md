@@ -18,6 +18,16 @@ Welcome to the **SquareLine Studio Board Packages** repository! This guide will 
 
 SquareLine Studio is a powerful development environment designed to help you create, build, and deploy GUIs for various hardware platforms. This repository contains board packages that enable support for different hardware configurations within SquareLine Studio.
 
+The repository supports the following development boards:
+
+| Board                                       | Processor  | Display Driver | Board Library |  LVGL Version  | Display Library / Version |
+|---------------------------------------------|    :---:   |     :---:      |     :---:     |       :---:    |  :---:                    |
+| Lilygo T-Display-S3                         | ESP32S3    |  ST7789V       |     2.0.17    |  8.3.11        |  TFT_eSPI - 2.5.43        |
+| Lilygo T-Embed-S3                           | ESP32S3    |  ST7789        |     2.0.14    |  8.3.11        |  TFT_eSPI - 2.5.43        |
+| Makerfabs Matouch 7in                       | ESP32S3    | RGB565         |     2.0.17    |  8.3.11        |  Arduino_GFX - 1.3.1      |
+| Waveshare RP2040-LCD-1.28                   | RP2040     |  GC9A01A       | RP2040 - 3.2.2|  8.3.11        |  TFT_eSPI - 2.5.43        |
+| Adafruit TFT Featherwing 3.5" + Feather V1  | ESP32      | HX8357D        |     2.0.17    |  8.3.11        |  TFT_eSPI - 2.5.43        |
+
 ## Requirements
 
 Before you begin, ensure you have the following:
