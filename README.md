@@ -20,13 +20,13 @@ SquareLine Studio is a powerful development environment designed to help you cre
 
 The repository supports the following development boards:
 
-| Board                                       | Processor  | Display Driver | Board Library |  LVGL Version  | Display Library / Version |
-|---------------------------------------------|    :---:   |     :---:      |     :---:     |       :---:    |  :---:                    |
-| Lilygo T-Display-S3                         | ESP32S3    |  ST7789V       |     2.0.17    |  8.3.11        |  TFT_eSPI - 2.5.43        |
-| Lilygo T-Embed-S3                           | ESP32S3    |  ST7789        |     2.0.14    |  8.3.11        |  TFT_eSPI - 2.5.43        |
-| Makerfabs Matouch 7in                       | ESP32S3    | RGB565         |     2.0.17    |  8.3.11        |  Arduino_GFX - 1.3.1      |
-| Waveshare RP2040-LCD-1.28                   | RP2040     |  GC9A01A       | RP2040 - 3.2.2|  8.3.11        |  TFT_eSPI - 2.5.43        |
-| Adafruit TFT Featherwing 3.5" + Feather V1  | ESP32      | HX8357D        |     2.0.17    |  8.3.11        |  TFT_eSPI - 2.5.43        |
+| Board                                       | Processor  | Display Driver | Board Library |  LVGL Version  | Display Library / Version |              | 
+|---------------------------------------------|    :---:   |     :---:      |     :---:     |       :---:    |  :---:                    |:---:         |
+| Lilygo T-Display-S3                         | ESP32S3    |  ST7789V       |     2.0.17    |  8.3.11        |  TFT_eSPI - 2.5.43        |![](images/tdisplays3.JPG)|
+| Lilygo T-Embed-S3                           | ESP32S3    |  ST7789        |     2.0.14    |  8.3.11        |  TFT_eSPI - 2.5.43        |![](images/tembed.JPG)|
+| Makerfabs Matouch 7in                       | ESP32S3    | RGB565         |     2.0.17    |  8.3.11        |  Arduino_GFX - 1.3.1      |![](images/matouch7inhires.JPG)|
+| Waveshare RP2040-LCD-1.28                   | RP2040     |  GC9A01A       | RP2040 - 3.2.2|  8.3.11        |  TFT_eSPI - 2.5.43        |![](images/rp2040round.JPG)|
+| Adafruit TFT Featherwing 3.5" + Feather V1  | ESP32      | HX8357D        |     2.0.17    |  8.3.11        |  TFT_eSPI - 2.5.43        |![](images/titano.JPG)|
 
 ## Requirements
 
@@ -110,10 +110,19 @@ When creating issues or PRs, please keep the following guidelines in mind:
 
 - Use code blocks: This makes your code easier to read.
 
+### To Do
+
+- [ ] Add board package for [LILYGO T4 S3](https://www.lilygo.cc/products/t4-s3)
+- [ ] Add board package for [LILYGO T-Encoder Pro](https://www.lilygo.cc/products/t-encoder-plus)
+- [ ] Cross Platform Compatibility  
+  - [x] Windows
+  - [ ] Linux
+  - [ ] MacOS  
+
 ## License
 
-This repository is licensed under the MIT License. See the `LICENSE` file for more details.
+This repository is licensed under the MIT License. See the [`LICENSE`](https://github.com/yashmulgaonkar/SquareLineStudio_boardpackages/blob/main/LICENSE) file for more details.
 
 ---
 
-Thank you for using SquareLine Studio board packages! If you have any questions or need further assistance, feel free to open an issue.
+Thank you for using SquareLine Studio board packages! If you have any questions or need further assistance, feel free to open an issue or email me at info@yashmulgaonkar.com.
