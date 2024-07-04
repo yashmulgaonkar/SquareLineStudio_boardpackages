@@ -125,4 +125,4 @@ This repository is licensed under the MIT License. See the [`LICENSE`](https://g
 
 ---
 
-Thank you for using SquareLine Studio board packages! If you have any questions or need further assistance, feel free to open an issue or email me at info@yashmulgaonkar.com.
+Thank you for using SquareLine Studio board packages! If you have any questions or need further assistance, feel free to open an issue or [Email me](mailto:info@yashmulgaonkar.com).
