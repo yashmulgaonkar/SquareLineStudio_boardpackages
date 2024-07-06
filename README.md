@@ -27,6 +27,7 @@ The repository supports the following development boards:
 | Makerfabs Matouch 7in                       | ESP32S3    | RGB565         |     2.0.17    |  8.3.11        |  Arduino_GFX - 1.3.1      |![](images/matouch7inhires.JPG)|
 | Waveshare RP2040-LCD-1.28                   | RP2040     |  GC9A01A       | RP2040 - 3.2.2|  8.3.11        |  TFT_eSPI - 2.5.43        |![](images/rp2040round.JPG)|
 | Adafruit TFT Featherwing 3.5" + Feather V1  | ESP32      | HX8357D        |     2.0.17    |  8.3.11        |  TFT_eSPI - 2.5.43        |![](images/titano.JPG)|
+| Lilygo T-Encoder Pro                        | ESP32S3    | SH8601         |     2.0.14    |  8.3.11        |  Arduino_GFX - 1.3.7 [Lilygo Branch](https://github.com/Xinyuan-LilyGO/T-Encoder-Pro/tree/main/libraries/Arduino_GFX-1.3.7) |![](images/TEncoderPro.jpg)|
 
 ## Requirements
 
