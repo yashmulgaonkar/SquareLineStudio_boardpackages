@@ -113,8 +113,8 @@ When creating issues or PRs, please keep the following guidelines in mind:
 
 ### To Do
 
-- [ ] Add board package for [LILYGO T4 S3](https://www.lilygo.cc/products/t4-s3)
-- [ ] Add board package for [LILYGO T-Encoder Pro](https://www.lilygo.cc/products/t-encoder-plus)
+- [x] Add board package for [LILYGO T4 S3](https://www.lilygo.cc/products/t4-s3)
+- [x] Add board package for [LILYGO T-Encoder Pro](https://www.lilygo.cc/products/t-encoder-plus)
 - [ ] Cross Platform Compatibility  
   - [x] Windows
   - [ ] Linux
