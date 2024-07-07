@@ -28,7 +28,7 @@ The repository supports the following development boards:
 | Waveshare RP2040-LCD-1.28                   | RP2040     |  GC9A01A       | RP2040 - 3.2.2|  8.3.11        |  TFT_eSPI - 2.5.43        |![](images/rp2040round.JPG)|
 | Adafruit TFT Featherwing 3.5" + Feather V1  | ESP32      | HX8357D        |     2.0.17    |  8.3.11        |  TFT_eSPI - 2.5.43        |![](images/titano.JPG)|
 | Lilygo T-Encoder Pro                        | ESP32S3    | SH8601         |     2.0.14    |  8.3.11        |  Arduino_GFX - 1.3.7 [Lilygo Branch](https://github.com/Xinyuan-LilyGO/T-Encoder-Pro/tree/main/libraries/Arduino_GFX-1.3.7) |![](images/TEncoderPro.jpg)|
-
+| Lilygo T4 S3                        | ESP32S3    | RM690B0         |     2.0.14    |  8.3.11        |  LilyGo-AMOLED-Series - [1.0.8](https://github.com/Xinyuan-LilyGO/LilyGo-AMOLED-Series) |![](images/t4s3.jpg)|
 ## Requirements
 
 Before you begin, ensure you have the following:
@@ -112,7 +112,7 @@ When creating issues or PRs, please keep the following guidelines in mind:
 - Use code blocks: This makes your code easier to read.
 
 ### To Do
-
+- [ ] Add touchscreen support to eligible packages.
 - [x] Add board package for [LILYGO T4 S3](https://www.lilygo.cc/products/t4-s3)
 - [x] Add board package for [LILYGO T-Encoder Pro](https://www.lilygo.cc/products/t-encoder-plus)
 - [ ] Cross Platform Compatibility  
