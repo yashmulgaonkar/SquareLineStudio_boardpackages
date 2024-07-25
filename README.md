@@ -111,10 +111,12 @@ When creating issues or PRs, please keep the following guidelines in mind:
 
 - Use code blocks: This makes your code easier to read.
 
+### Coming Soon
+- [  ] Add board package for [T-Panel S3](https://www.lilygo.cc/products/t-panel-s3)
+- [  ] Add board package for [T-Display S3 Long](https://www.lilygo.cc/products/t-display-s3-long)
+
 ### To Do
 - [ ] Add touchscreen support to eligible packages.
-- [x] Add board package for [T-Panel S3](https://www.lilygo.cc/products/t-panel-s3)
-- [x] Add board package for [T-Display S3 Long](https://www.lilygo.cc/products/t-display-s3-long)
 - [ ] Cross Platform Compatibility  
   - [x] Windows
   - [ ] Linux
