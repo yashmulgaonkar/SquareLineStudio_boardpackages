@@ -113,8 +113,8 @@ When creating issues or PRs, please keep the following guidelines in mind:
 
 ### To Do
 - [ ] Add touchscreen support to eligible packages.
-- [x] Add board package for [LILYGO T4 S3](https://www.lilygo.cc/products/t4-s3)
-- [x] Add board package for [LILYGO T-Encoder Pro](https://www.lilygo.cc/products/t-encoder-plus)
+- [x] Add board package for [T-Panel S3](https://www.lilygo.cc/products/t-panel-s3)
+- [x] Add board package for [T-Display S3 Long](https://www.lilygo.cc/products/t-display-s3-long)
 - [ ] Cross Platform Compatibility  
   - [x] Windows
   - [ ] Linux
